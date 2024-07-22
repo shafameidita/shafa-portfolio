@@ -1,10 +1,5 @@
-Shafa Salzabila Meidita
-Bogor 16620 | linkedin.com/in/shafameidita/ | 081213714962 | ssalzabilam@gmail.com 
-
-
-OBJECTIVE
-I am currently enrolled in Purwadhika's Digital Talent Incubator program specializing in Data Science and Machine Learning, with 1.5 years of experience in administration and personal assistant roles. My strong passion for technology and data analysis, coupled with a commitment to excellence, positions me as a valuable candidate for a Data Scientist role. My ability to effectively analyze complex datasets, combined with my experience in managing administrative tasks and dedication to continuous learning, further enhances my suitability for contributing effectively to data-driven projects and teams.
-COURSES
+# COURSES
+--- 
 Purwadhika Digital Talent Incubator 
 Data Science and Machine Learning	(March 2024 – Present)
 •	Learned comprehensive modules covering the fundamentals of Data Science, programming with Python, Data Analysis and visualization using SQL and Tableau, as well as Machine Learning.
